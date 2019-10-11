@@ -10,6 +10,10 @@
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read https://bit.ly/CRA-PWA
 
+//urn:amazon:cognito:sp:eu-west-1_iw0P6wkl9
+//https://dlgtestad.auth.eu-west-1.amazoncognito.com/saml2/idpresponse
+//https://dlgtestad.auth.eu-west-1.amazoncognito.com/logout?response_type=code&client_id=59c6f84mu57bh000c17maeeau5&redirect_uri=https://rvbj.dlgdeops.co.uk
+
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost' ||
     // [::1] is the IPv6 localhost address.
